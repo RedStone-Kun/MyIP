@@ -116,7 +116,7 @@ export default {
   },
   page: {
     title:
-      "查看我的 IP 地址 | 查询本机 IP 地址及归属地 | 查看 WebRTC 连接 IP ｜ DNS 泄露检测 | 网速测试 | Jason Ng 阿禅开源作品",
+      "我的 IP 工具箱 | 查询本机 IP 地址及归属地 | 查看 WebRTC 连接 IP ｜ DNS 泄露检测 | 网速测试",
     footerName: "Creators: Jason Ng, Seven Yu & ChatGPT",
     footerLink: "https://github.com/jason5ng32/MyIP",
   },
